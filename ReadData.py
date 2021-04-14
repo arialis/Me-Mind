@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 # coding: utf-8
 
+# it is a notebook converted into a python file
+
 # ## Download and read files
 
 # Salvo i dati in un file json con un dizionario per ogni riga dove il dizionario descrive il giorno (come nell'input), mantenendo solo i campi di interesse, ovvero:
